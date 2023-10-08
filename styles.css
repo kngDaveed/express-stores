@@ -154,6 +154,9 @@ section {
 .homeimg6 img {
   width: 60px;
 }
+.mb-50{
+  margin-bottom: 9rem;
+}
 @media (max-width: 900px) {
   .container-fluid {
     max-width: 100%;
